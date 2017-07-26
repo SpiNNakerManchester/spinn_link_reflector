@@ -11,7 +11,9 @@ that it can recieve and send MC packets correctly.
 This is either:
 
 2.1. PyNN 0.7 interface via the pynn7_reflector.py
+
 2.2. PyNN 0.8/0.9 interface via the pynn8_reflector.py
+
 2.3. GFE interface via the gfe_reflector.py
 
 3. run choosen script.
